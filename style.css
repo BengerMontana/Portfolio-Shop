@@ -364,21 +364,21 @@ body {
 .case-one__img {
   width: 100%;
   height: 200px;
-  background-image: url(/img/tv.png);
+  background-image: url(img/tv.png);
   background-repeat: no-repeat;
   background-position: center;
 }
 .case-two__img {
   width: 100%;
   height: 200px;
-  background: url(/img/tvbox.png);
+  background: url(img/tvbox.png);
   background-repeat: no-repeat;
   background-position: center;
 }
 .case-three__img {
   width: 100%;
   height: 200px;
-  background: url(/img/watch.png);
+  background: url(img/watch.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -398,7 +398,7 @@ body {
   border: 1px solid #2c71b8;
   padding: 5px;
   margin-top: 10px;
-  background-image: url(/img/qube.png);
+  background-image: url(img/qube.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -409,20 +409,20 @@ body {
   border: 1px solid #2c71b8;
   padding: 5px;
   margin-top: 10px;
-  background-image: url(/img/heart.png);
+  background-image: url(img/heart.png);
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .qube:hover {
-  background-image: url(/img/qube__hover.png);
+  background-image: url(img/qube__hover.png);
   background-repeat: no-repeat;
   background-position: center;
   border: 1px solid white;
 }
 
 .heart:hover {
-  background-image: url(/img/heart__hover.png);
+  background-image: url(img/heart__hover.png);
   background-repeat: no-repeat;
   background-position: center;
   border: 1px solid white;
@@ -462,7 +462,7 @@ body {
 }
 
 .device-add__text {
-  background: url(/img/basket.png);
+  background: url(img/basket.png);
   background-repeat: no-repeat;
   background-position: right;
   padding-right: 25px;
